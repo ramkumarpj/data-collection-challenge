@@ -1,6 +1,6 @@
-# data-collection-challenge
+# Data Collection Challenge
 
-# Mars News and Mars Weather - Data Collection and Analysis
+# Mars News and Mars Weather
 
 ## Mars News
 
